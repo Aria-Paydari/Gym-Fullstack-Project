@@ -1,0 +1,29 @@
+#home-div{
+    background-image: url("../assets/images/treadmill.jpg");
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#home-slogan{
+    transform: translateY(19vh);
+    font-size: 7rem;
+}
+
+#home-info-container{
+    text-align: center;
+}
+
+#sub-button{
+    color:white;
+    background: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#sub-button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.gallery-image{
+    padding: 5%;
+    padding-top: 10% !important;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    background-color: transparent;
+    border: none;
+}
+
+th{
+    color: white !important;
+}
+
+td{
+    color: white;
+}
+
+#map-image{
+    width: 300px;
+    height: 300px;
+}
+
+#register-class{
+    background-color: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#register-class:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#drop-class{
+    background-color: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#drop-class:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}

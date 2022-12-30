@@ -1,0 +1,95 @@
+#main-container{
+    border-style: dashed;
+    border-color: red;
+    position: fixed;
+    min-width: 100%;
+}
+
+.right-col{
+    border-left: 3px solid white;
+    overflow: auto;
+}
+.map-container{
+    height: 340px;
+}
+
+#location-button2{
+    background: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#location-button2:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#location-button{
+    background: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#location-button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#filter_button{
+    background: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#filter_button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+input[type=username]:focus{
+    background-color: #16222a;
+    color: white;
+}
+
+input[type=amenity]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+input[type=className]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+input[type=coach]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+input[type=text]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+#location{
+    background-color: #0f171c;
+}
+
+#username{
+    background-color: #0f171c;
+}
+
+#amenity{
+    background-color: #0f171c;
+}
+
+#className{
+    background-color: #0f171c;
+}
+
+#coach{
+    background-color: #0f171c;
+}
+
+
+

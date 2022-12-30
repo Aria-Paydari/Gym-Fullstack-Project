@@ -1,0 +1,12 @@
+#add-button{
+    width: 50%;
+    float: right;
+    background-color: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#add-button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}

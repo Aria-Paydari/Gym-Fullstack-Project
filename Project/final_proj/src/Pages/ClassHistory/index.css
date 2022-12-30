@@ -1,0 +1,12 @@
+
+.history-item {
+    width: 10%;
+    transition: 0.3s;
+}
+
+.history-item:hover {
+    background-color: aqua;
+    color: #27262E;
+    font-weight: bold;
+    font-size: larger;
+}

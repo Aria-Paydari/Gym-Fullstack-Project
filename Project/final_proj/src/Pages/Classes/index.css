@@ -1,0 +1,103 @@
+
+.form-control{
+    background: #1d1d24;
+    border: none;
+    color: white;
+}
+
+.list-group-item {
+    background-color: #1d1d24;
+    color: white;
+}
+
+select{
+    width: 100%;
+    height: 35px;
+    background: #1d1d24;
+    border: none;
+    color: #656d76;
+    text-align-last: left;
+    padding-left: 13px;
+    border-radius: 7px;
+}
+
+#studio{
+    margin-bottom: 5%;
+}
+
+input[type=username]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+input[type=password]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+#change_status{
+    color: #32d19d;
+}
+
+#class-info{
+    width: 100%;
+    background-color: #0f171c;
+    border: none;
+}
+
+#class-info:hover{
+    color: #32d19d;
+}
+
+#time-error{
+    color: red;
+}
+
+#filter-button{
+    background-color: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#filter-button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#mysechdule-button{
+    background-color: #0f171c;
+    transition: 0.5s;
+    border: none;
+}
+
+#mysechdule-button:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#studio{
+    background-color: #0f171c;
+}
+
+#start{
+    background-color: #0f171c;
+}
+
+#end{
+    background-color: #0f171c;
+}
+
+#startd{
+    background-color: #0f171c;
+}
+
+#coachName{
+    background-color: #0f171c;
+}
+
+input[type=text]:focus{
+    background-color: #0f171c;
+    color: white;
+    border: none;
+}
+

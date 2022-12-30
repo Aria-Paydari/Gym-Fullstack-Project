@@ -1,0 +1,60 @@
+
+#register-form{
+    background: #16222a !important;
+    border: none;
+}
+
+#register-button{
+    background: #1d1d24;
+    border: none;
+}
+
+#login-button{
+    background: #1d1d24;
+    border: none;
+}
+
+.form-control{
+    background: #1d1d24;
+    border: none;
+    color: white;
+}
+
+select{
+    width: 100%;
+    height: 35px;
+    background: #1d1d24;
+    border: none;
+    color: #656d76;
+    text-align-last: left;
+    padding-left: 13px;
+    border-radius: 7px;
+}
+
+#initial-avatar{
+    display: none;
+}
+
+#avatar_image{
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-bottom: 5%;
+}
+
+input[type=username]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+input[type=password]:focus{
+    background-color: #1d1d24;
+    color: white;
+}
+
+#creditCard{
+    background: #0f171c;
+}

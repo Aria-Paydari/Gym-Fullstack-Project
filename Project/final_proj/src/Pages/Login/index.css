@@ -1,0 +1,29 @@
+#login-form{
+    background: #16222a !important;
+    border: none;
+}
+
+#login-button{
+    background: #0f171c !important;
+    border: none;
+}
+
+.form-control{
+    background: #0f171c;
+    border: none;
+    color: white;
+}
+
+input[type=username]:focus{
+    background-color: #0f171c;
+    color: white;
+}
+
+input[type=password]:focus{
+    background-color: #0f171c;
+    color: white;
+}
+
+#password{
+    background-color: #0f171c;
+}

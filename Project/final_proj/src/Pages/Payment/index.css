@@ -1,0 +1,20 @@
+#change_credit{
+    background-color: #0f171c;
+    border: none;
+}
+
+#change_credit:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
+
+#more{
+    background-color: #0f171c;
+    border: none;
+    transition: 0.5s;
+}
+
+#more:hover{
+    background-color: #32d19d;
+    color: #16222a;
+}
