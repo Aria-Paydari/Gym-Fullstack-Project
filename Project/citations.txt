@@ -1,0 +1,17 @@
+Mapbox API:
+https://docs.mapbox.com/mapbox-gl-js/api/
+
+Mapbox Geocoder:
+https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-geocoder-accept-coordinates/
+
+Bootstrap Documentation:
+https://getbootstrap.com/
+
+Bootstrap Studio Themes [heavily modified some code snippets]:
+https://bootstrapstudio.io/docs/themes.html#built-in-themes
+
+Cookies:
+https://stackoverflow.com/questions/39826992/how-can-i-set-a-cookie-in-react
+
+Geocoding API:
+https://apidocs.geoapify.com/docs/geocoding/forward-geocoding/#about
